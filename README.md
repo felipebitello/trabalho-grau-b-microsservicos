@@ -17,3 +17,5 @@ POST http://localhost:8005/alunos
 GET http://localhost:8005/alunos
 
 GET http://localhost:8005/planos
+
+Ordem pra rodar: registry, plano, aluno, gateway
